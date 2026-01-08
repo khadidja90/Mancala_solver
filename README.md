@@ -1,6 +1,6 @@
 # 🟤 Mancala Game with AI (Minimax + Alpha-Beta)
 
-<img src="images/Screenshot 2026-01-08 221049.png" width="700"  />
+
 This project is a **Mancala board game** implemented in **Python using Pygame**, featuring:
 - A full graphical interface
 - Sound effects and background music
@@ -8,7 +8,7 @@ This project is a **Mancala board game** implemented in **Python using Pygame**,
 - AI vs AI mode
 - Artificial Intelligence based on **Minimax with Alpha-Beta Pruning**
 - Animated marble movements and hover tooltips
-
+<img src="images/Screenshot 2026-01-08 221049.png" width="700"  />
 ---
 
 ## 🎮 Game Features
