@@ -1,6 +1,6 @@
 # 🟤 Mancala Game with AI (Minimax + Alpha-Beta)
-![Gameplay](images/Screenshot 2026-01-08 220817.png)
 
+<img src="images/Screenshot 2026-01-08 221049.png" width="220" />
 This project is a **Mancala board game** implemented in **Python using Pygame**, featuring:
 - A full graphical interface
 - Sound effects and background music
@@ -57,19 +57,6 @@ Two AI levels are used in AI vs AI mode:
 - **MAX AI** → deeper search (stronger)
 - **MIN AI** → shallower search (weaker)
 
-
-
-## ▶️ How to Run the Game
-
-## 1️⃣ Install Requirements
-Make sure Python is installed, then install Pygame:
-
-```bash
-pip install pygame
-2️⃣ Run the Game
-bash
-Copy code
-python main.py
 🕹️ Controls
 Mouse Click → Select pits and navigate menus
 
