@@ -1,6 +1,6 @@
 # 🟤 Mancala Game with AI (Minimax + Alpha-Beta)
 
-<img src="images/Screenshot 2026-01-08 221049.png" width="220" />
+<img src="images/Screenshot 2026-01-08 221049.png"  />
 This project is a **Mancala board game** implemented in **Python using Pygame**, featuring:
 - A full graphical interface
 - Sound effects and background music
@@ -119,16 +119,16 @@ Game design with Pygame
 
 ### Main Menu
 
-<img src="images/Screenshot 2026-01-08 220847.png" width="220" />
-<img src="images/Screenshot 2026-01-08 220951.png" width="220" />
-<img src="images/Screenshot 2026-01-08 221020.png" width="220" />
+<img src="images/Screenshot 2026-01-08 220847.png"  />
+<img src="images/Screenshot 2026-01-08 220951.png" />
+<img src="images/Screenshot 2026-01-08 221020.png"  />
 
 
 
 ### Gameplay
-<img src="images/Screenshot 2026-01-08 221049.png" width="220" />
+<img src="images/Screenshot 2026-01-08 221049.png"  />
 
 ### Score Screen
-<img src="images/Screenshot 2026-01-08 221112.png" width="220" />
-<img src="images/Screenshot 2026-01-08 221137.png" width="220" />
+<img src="images/Screenshot 2026-01-08 221112.png"  />
+<img src="images/Screenshot 2026-01-08 221137.png"/>
 
