@@ -61,7 +61,7 @@ Two AI levels are used in AI vs AI mode:
 
 ## ▶️ How to Run the Game
 
-### 1️⃣ Install Requirements
+## 1️⃣ Install Requirements
 Make sure Python is installed, then install Pygame:
 
 ```bash
@@ -131,14 +131,17 @@ Game design with Pygame
 ## 📸 Screenshots
 
 ### Main Menu
-![Main Menu](images/Screenshot 2026-01-08 220847.png)
 
-![Gameplay](images/Screenshot 2026-01-08 220951.png)
+<img src="images/Screenshot 2026-01-08 220847.png" width="220" />
+<img src="images/Screenshot 2026-01-08 220951.png" width="220" />
+<img src="images/Screenshot 2026-01-08 221020.png" width="220" />
 
-![Score Screen](images/Screenshot 2026-01-08 221020.png)
+
 
 ### Gameplay
-![Score Screen](images/Screenshot 2026-01-08 221049.png)
+<img src="images/Screenshot 2026-01-08 221049.png" width="220" />
+
 ### Score Screen
-![Score Screen](images/Screenshot 2026-01-08 221112.png)
-![Score Screen](images/Screenshot 2026-01-08 221137.png)
+<img src="images/Screenshot 2026-01-08 221112.png" width="220" />
+<img src="images/Screenshot 2026-01-08 221137.png" width="220" />
+
